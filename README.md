@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/max/1400/1*GNFNf_V7rj_C2YUCeZNzsw.jpeg)]
+![MasterHead](https://miro.medium.com/max/1400/1*GNFNf_V7rj_C2YUCeZNzsw.jpeg)
 
 
 <h1 align="center">Hi 👋, I'm Nisha Sahu</h1>
