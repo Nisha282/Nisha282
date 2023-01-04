@@ -5,7 +5,7 @@
 <h3 align="center">A passionate FullStack developer from India.</h3>
 
 <img align="right" alt ="coding" width="400" src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nisha282&label=Profile%20views&color=0e75b6&style=flat" alt="nisha282" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=nisha282&label=Profile%20views&color=0e75b6&style=flat" alt="nisha282" /> </p> -->
 
 # 💫 About Me:
 🔭 I’m currently working on Backend part for creating API's using Nodejs , Express , JavaScript and manipulate the data using MongoDb .<br>🌱 I’m currently learning ReactJs.<br>👯 I’m looking to collaborate in JavaScript projects.<br>💬 Ask me about ... Anything<br>😄 Pronouns: She/her<br>⚡ Fun fact: I am lazy but smart.<br>✨ Eat ↔️ Code ↔️ Sleep↔️Repeat
