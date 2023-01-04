@@ -1,8 +1,8 @@
 ![MasterHead](https://miro.medium.com/max/1400/1*GNFNf_V7rj_C2YUCeZNzsw.jpeg)
 
-<h1> Hello World , I'm Chanchal <img alt="coding" height="40px" src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif"> </h1>
+<h1 align="center"> Hello World , I'm Nisha <img alt="coding" height="40px" src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif"> </h1>
 
-<h3 align="center">A passionate FullStack developer from India.</h3>
+<h3 align="center">A passionate Backend developer from India.</h3>
 
 <img align="right" alt ="coding" width="400" src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=nisha282&label=Profile%20views&color=0e75b6&style=flat" alt="nisha282" /> </p> -->
